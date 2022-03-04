@@ -1,4 +1,4 @@
 streamlit
 pandas
 plotly
-nba_api
+nba_api.stats.static
